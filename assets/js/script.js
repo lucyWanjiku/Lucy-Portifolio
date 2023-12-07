@@ -1,11 +1,5 @@
 'use strict';
-let type = new Typed('#changing',{
-  String : ['Web Developer','Front-End Developer','Back-End Developer','Mobile Developer'],
-  typeSpeed : 100,
-  backSpeed :100,
-  loop :true,
 
-})
 
 
 
